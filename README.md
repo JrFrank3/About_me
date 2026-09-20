@@ -19,7 +19,7 @@
 
 <h1>
    Diseñador Gráfico &
-Desarrollador Web Jr.
+Desarrollador Web
 </h1>
 
 ## 🛠 &nbsp;Stack tecnológico
